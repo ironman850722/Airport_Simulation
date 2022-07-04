@@ -19,12 +19,12 @@ Visual Studio Version: Visual Studio 2019
 4. Compile and Run
 
 ## After running the code
-Mouse option:
-Right click your mouse can determine the time (Morning/Night)
+Mouse option:  
+Right click your mouse can determine the time (Morning/Night)  
 
-Keyboard options:
-Press '1' Turn on/off hangar's light
-Press '2' Turn on/off landing airplane's light
-Press '3' Turn on/off cycling airplane's light
-Press 'i' Switch the view to Inside view
-Press 'q' Shut down the program
+Keyboard options:  
+Press '1' Turn on/off hangar's light  
+Press '2' Turn on/off landing airplane's light  
+Press '3' Turn on/off cycling airplane's light  
+Press 'i' Switch the view to Inside view  
+Press 'q' Shut down the program  
